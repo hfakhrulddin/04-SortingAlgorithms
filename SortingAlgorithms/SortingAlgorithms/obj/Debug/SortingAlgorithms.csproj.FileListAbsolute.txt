@@ -1,1 +1,7 @@
 C:\Users\Hussen\Desktop\160115\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Div\Origin\04-SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Div\Origin\04-SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Div\Origin\04-SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Div\Origin\04-SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\Div\Origin\04-SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Div\Origin\04-SortingAlgorithms\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
